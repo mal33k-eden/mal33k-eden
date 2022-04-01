@@ -9,6 +9,11 @@
 - 😄 Pronouns: HE/HIS/HIM
 - ⚡ Fun fact: I am a christian. And I love God.
 
+
+![mal33k-eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=mal33k-eden&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mal33k-eden&langs_count=8&layout=compact)](https://github.com/mal33k-eden/github-readme-stats)
+ 
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://gazelleweb-tech.com#gh-light-mode-only)
@@ -23,9 +28,3 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/emmanuel-tartey-89096090/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/emmanuel-tartey-89096090/#gh-dark-mode-only)
 &nbsp;&nbsp;
-
-
-![mal33k-eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=mal33k-eden&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mal33k-eden&langs_count=8&layout=compact)](https://github.com/mal33k-eden/github-readme-stats)
- 
