@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mal33k-eden/mal33k-eden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![mal33k-eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=mal33k-eden)](https://github.com/mal33k-eden/github-readme-stats)
