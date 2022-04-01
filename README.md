@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently working on Mula Finance 
 - 🌱 I’m currently learning blockchain development
-- 👯 I’m looking to collaborate on web3 project
+- 👯 I’m looking to collaborate on mind blowing web3 projects
 - 🤔 I’m looking for help with reactjs 
 - 💬 Ask me about Mula Finance
-- 📫 How to reach me: emm.kwami@mulatoken.finance
+- 📫 How to reach me: emm.kwami@mulatoken.finance or @etkwami
 - 😄 Pronouns: HE/HIS/HIM
 - ⚡ Fun fact: I am a christian. And I love God.
 
