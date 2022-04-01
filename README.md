@@ -10,6 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![mal33k-eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=mal33k-eden)](https://github.com/mal33k-eden/github-readme-stats)
+![mal33k-eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=mal33k-eden&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
-![mal33k-eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=mal33k-eden&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mal33k-eden&langs_count=8)](https://github.com/mal33k-eden/github-readme-stats)
+ 
