@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Emmanuel.
 
-- 🔭 I’m currently working on Mula Finance 
+- 🔭 I’m currently working on [Mula Finance](https://mulatoken.finance),[Gazelle Web-Tech](https://gazelleweb-tech.com) & [C.A.M.A](https://camapp.org.uk)
 - 🌱 I’m currently learning blockchain development
 - 👯 I’m looking to collaborate on mind blowing web3 projects
 - 🤔 I’m looking for help with reactjs 
