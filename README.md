@@ -11,3 +11,5 @@
 - ⚡ Fun fact: ...
 
 [![mal33k-eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=mal33k-eden)](https://github.com/mal33k-eden/github-readme-stats)
+
+![mal33k-eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=mal33k-eden&show_icons=true&theme=radical)
